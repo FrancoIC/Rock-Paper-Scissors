@@ -5,7 +5,7 @@ either Rock, Paper or Scissors, compares the user's choice against the computer'
 Author: Franco IC
 """
 
-print "Welcome to Oikawa's Rock-Paper-Scissors!"
+print "Welcome to Rock-Paper-Scissors!"
 
 from random import randint
 
