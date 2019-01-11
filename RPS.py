@@ -2,7 +2,7 @@
 This program emulates Rock-Paper-Scissors, prompt the user to select either Rock, Paper, or Scissors, instruct the computer to randomly select
 either Rock, Paper or Scissors, compares the user's choice against the computer's choice, determine a winner and finally informs the user who the winner is."
 
-Author: Oikawa
+Author: Franco IC
 """
 
 print "Welcome to Oikawa's Rock-Paper-Scissors!"
